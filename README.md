@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![bergmoa@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bergmoa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-berg-86795a209/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moasannacatharina)
 <!--
 **moasannacatharina/moasannacatharina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
